@@ -1,0 +1,13 @@
+{
+  "name": "@damflow/ts-config-loader",
+  "version": "1.0.0",
+  "description": "Universal & typesafe config.",
+  "main": "main.ts",
+  "author": "Paul von Allwörden",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^13.13.4"
+  },
+  "dependencies": {}
+}
