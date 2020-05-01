@@ -6,6 +6,7 @@
   "author": "Paul von Allwörden",
   "license": "MIT",
   "private": false,
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "devDependencies": {
     "@types/node": "^13.13.4"
   },
